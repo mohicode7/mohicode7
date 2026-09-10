@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Structural+Engineer+%7C+Seismic+Design+Specialist;.NET+%26+Python+Software+Developer;Building+FEM+%26+Seismic+Analysis+Tools;ASCE+7+%7C+AISC+360+%7C+INBC+Implementation;Always+open+to+engineering+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Structural+Engineer+%7C+Seismic+Design+Specialist;.NET+%26+Python+Software+Developer;Building+FEM+%26+Seismic+Analysis+Tools;ASCE+7+%7C+AISC+360+%7C+INBC+Implementation;Always+open+to+engineering+collaboration" alt="Typing SVG" />
 </a>
 
 </div>
@@ -65,19 +65,26 @@ I'm a **Structural Engineer** turned **software developer**, building the tools 
 
 ## 📊 GitHub Stats
 
+<!--
+  Rendered by the "GitHub Metrics" Action (see metrics.yml).
+  This commits a static SVG to your repo on a schedule, so it never
+  depends on the flaky vercel.app hosted instance.
+  Replace USERNAME/USERNAME below with your profile repo path once the
+  Action has run at least once.
+-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohicode7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohicode7&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohicode7&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohicode7&theme=redical&hide_border=true" alt="Activity Graph" height="165"/>
+  <img src="https://raw.githubusercontent.com/mohicode7/mohicode7/main/github-metrics.svg" alt="Metrics"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohicode7&theme=radical&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
+
+<!--
+  Fallback if the line above ever breaks too: trophy runs on a different
+  Vercel deployment than github-readme-stats, but if it goes down, remove
+  the block above and this profile will still render cleanly without it.
+-->
 
 ---
 
